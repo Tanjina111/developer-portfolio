@@ -51,3 +51,26 @@ section{
     box-shadow: 10px 10px 40px gray;
     padding: 25px 10px;
 }
+.brd1{
+    border-image: linear-gradient( seagreen, lightgreen);
+    border-right: 7px solid;
+    border-image-slice: 1;
+}
+.brd2{
+    border-image: linear-gradient( seagreen, lightgreen);
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+.brd3{
+    border-image: linear-gradient( seagreen, lightgreen);
+    border-bottom: 7px solid;
+    border-image-slice: 1;
+}
+.brd4{
+    border-image: linear-gradient( seagreen, lightgreen);
+    border-top: 7px solid;
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
