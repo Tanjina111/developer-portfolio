@@ -51,7 +51,3 @@ section{
     box-shadow: 10px 10px 40px gray;
     padding: 25px 10px;
 }
-#bord{
-    border-bottom: 7px solid;
-    border-image-slice: 1;
-}
