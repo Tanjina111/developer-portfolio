@@ -13,6 +13,7 @@ body{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    background-size: 80px;
 }
 .banne{
     background-image: url(images/exp-bg.png);
@@ -49,4 +50,8 @@ section{
 .box{
     box-shadow: 10px 10px 40px gray;
     padding: 25px 10px;
+}
+#bord{
+    border-bottom: 7px solid;
+    border-image-slice: 1;
 }
